@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kinouchi Takahiro 木内貴浩
+title: 木内貴浩
 
 # Full name (for SEO)
 first_name: Takahiro
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student of Toyohashi University of Technology
+role: Kinouchi Takahiro
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://www.tut.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
-bio: MLエンジニアとして，MLモデルのデプロイや最適化などを行っています．このサイトはまだ開発中です
+bio: MLエンジニアとして，MLモデルのデプロイや最適化などを行っています．
 
 # Interests to show in About widget
 interests:
@@ -57,6 +57,8 @@ email: 'drums.radwimps203@gmail.com'
 highlight_name: true
 ---
 
-MLエンジニアとして，MLモデルのデプロイや最適化などを行っています．このサイトはまだ開発中です
+MLエンジニアとして，MLモデルのデプロイや最適化などを行っています．
+
+このサイトはまだ開発中です
 
 {style="text-align: justify;"}
